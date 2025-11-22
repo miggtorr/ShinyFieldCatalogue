@@ -9,9 +9,11 @@ The code was tested, tweaked, and debugged by hand by a real human (me) on a han
 
 # ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Installation & Running the App ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png)
 
-## Installation
+## Download & Installation
 
-To install the app, open up the DMG and drag the app into your /Applications folder.
+To download the app, get the latest version from [Releases](https://github.com/miggtorr/ShinyFieldCatalogue/releases).
+
+To install the app, unzip the file, open up the DMG and drag the app into your /Applications folder.
 
 ### OS Requirements
 

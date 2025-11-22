@@ -94,6 +94,8 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
 - Gorgeous, low file-size shiny sprites downloaded from PokéAPI and cached locally.
 - Support for custom images (e.g., if you want an oldschool sprite)
   - no animated GIF support yet 🙏
+
+- Filter/Search function to find hunts by Name and by Game! 
     
 - Autofill feature when adding a hunt so you know you're spelling a mon's name right.
   - It's still a little buggy:

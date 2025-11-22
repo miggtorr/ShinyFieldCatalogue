@@ -44,7 +44,7 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
     - If this app ever dies, you'll STILL be able to read your hunt data because JSON is human-readable and easily parsed by many applications!
 - Includes tools to hunt in real time!
   
-## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Detail-rich Hunt Records
+## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_16x16.png) Detail-rich Hunt Records
 - Pokémon Name
 – Method Used for Hunt (e.g., Random Encounters, Soft Resets, DexNav, etc.)
 - Pokémon Game you hunted it in.
@@ -62,7 +62,7 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
 - Shiny Charm Status
 - Space for Notes (e.g., if you were going after a particular nature, if you were hunting with your eyes closed, etc.)
 
-## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Shiny Hunting Tools
+## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_16x16.png) Shiny Hunting Tools
 - Customizable encounter counter
   - Can increase/decrease by any increment.
   - Arbitrary, customizable keybinds
@@ -72,7 +72,7 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
   - Displays counter, sprite, +/- buttons
   - Always stays on top of other windows! :)
 
-## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Backup & Share Records
+## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_16x16.png) Backup & Share Records
 - Export all your hunts as JSON
 - Import backed-up hunts as JSON
   - Custom games are automatically imported when importing hunts that were done on custom games!
@@ -80,7 +80,7 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
 - Easy to handle/parse if this app ever dies.
 - Share your hunts with others!
   
-## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Other Features
+## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_16x16.png) Other Features
 - Gorgeous, low file-size shiny sprites downloaded from PokéAPI and cached locally.
 - Support for custom images (e.g., if you want an oldschool sprite)
   - no animated GIF support yet 🙏

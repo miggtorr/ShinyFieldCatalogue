@@ -39,8 +39,9 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
 
 # ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Features ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png)
 
-- Keep a record of EVERY shiny you've EVER found!
-- Export/Import records as JSON for backup and simple readabilty. If this app ever dies, you'll STILL be able to read your hunts because JSON is human-readable!
+- Keep a record of EVERY shiny you've EVER found FOR AS LONG AS YOU EXIST.
+- Export/Import records as JSON for backup and simple readabilty.
+  - If this app ever dies, you'll STILL be able to read your hunt data because JSON is human-readable and easily parsed by many applications!
 - Use it as a counter to hunt in real time!
   
 ## Each Hunt Record includes

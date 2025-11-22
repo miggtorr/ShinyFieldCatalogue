@@ -101,6 +101,9 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
   - It's still a little buggy:
     - Press "Enter" to complete the name, then "Tab" to deselect the textbox.
 
+## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_16x16.png) Screenshot 
+
+![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/Shiny%20Field%20Catalogue%20Screenshot_001.png)
 
 
 

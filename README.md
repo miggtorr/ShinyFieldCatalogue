@@ -8,7 +8,7 @@
 
 All custom art (e.g., the app icon, sprite placeholders, etc.) was made by hand in Adobe Illustrator (by me! ❤️). All Pokémon sprites are downloaded at runtime via the PokéAPI, as is the Alpha icon from Bulbapedia. This Readme was written by yours truly. :)
 
-This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to produce a significant portion of the code in Python. 
+This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to produce a lot of the code in Python. 
 
 That said, the code was tested, tweaked, and debugged by hand by a real human (me) on a handful of real MacBooks.
 

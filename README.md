@@ -4,7 +4,9 @@
 
 #### 🤖 AI Disclosure: 
 
-**NO AI** was used for ANY Art or Writing. All custom art (e.g., the app icon, sprite placeholders, etc.) was made by hand in Adobe Illustrator (by me! ❤️). All Pokémon sprites are downloaded at runtime via the PokéAPI, as is the Alpha icon from Bulbapedia. This Readme was written by yours truly. :)
+**NO AI** was used for ANY Art or Writing. 
+
+All custom art (e.g., the app icon, sprite placeholders, etc.) was made by hand in Adobe Illustrator (by me! ❤️). All Pokémon sprites are downloaded at runtime via the PokéAPI, as is the Alpha icon from Bulbapedia. This Readme was written by yours truly. :)
 
 This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to produce a significant portion of the code in Python. 
 

@@ -5,7 +5,7 @@ A macOS app to Count, Track, and Catalogue your Pokémon Shiny Hunt
 This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to write a significant portion of the code. 
 The code was tested, tweaked, and debugged by hand by a real human (me) on a handful of real MacBooks.
 
-**No AI was used for ANY art or text (including this readme!).** All custom art was made by hand in Adobe Illustrator (by me! ❤️). All pokemon sprites are taken from the PokéAPI and the Alpha icon is from Bulbapedia.
+*No AI was used for ANY art or text (including this readme!).* All custom art was made by hand in Adobe Illustrator (by me! ❤️). All pokemon sprites are taken from the PokéAPI and the Alpha icon is from Bulbapedia.
 
 # OS Requirements
 

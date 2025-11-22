@@ -2,7 +2,7 @@
 ### A macOS app to Count, Track, and Catalogue your Pokémon Shiny Hunt
 
 #### 🤖 AI Disclosure: 
-This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to write a significant portion of the code in Python. 
+This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to produce a significant portion of the code in Python. 
 
 That said, the code was tested, tweaked, and debugged by hand by a real human (me) on a handful of real MacBooks.
 

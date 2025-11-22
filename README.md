@@ -37,9 +37,9 @@ To uninstall the app you can just drag it to the trash.
 There are also config files that save to `/Users/[yourUsername]/Library/Application Support/Shiny Field Catalogue/`. 
 Delete the "Shiny Field Catalogue" folder there and you're all set!
 
-# Features
+# ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Features ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png)
 
-- Keep a record of EVERY shiny you ever found!
+- Keep a record of EVERY shiny you've EVER found!
 - Export/Import records as JSON for backup and simple readabilty. If this app ever dies, you'll STILL be able to read your hunts because JSON is human-readable!
 - Use it as a counter to hunt in real time!
   

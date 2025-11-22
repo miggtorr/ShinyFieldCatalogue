@@ -1,6 +1,6 @@
 ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_256x256.png) 
 # ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Shiny Field Catalogue ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png)
-### A macOS app to Count, Track, and Catalogue your Pokémon Shiny Hunt
+## A macOS app to Count, Track, and Catalogue your Pokémon Shiny Hunts
 
 #### 🤖 AI Disclosure: 
 This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to produce a significant portion of the code in Python. 

@@ -38,9 +38,45 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
 
 # Features
 
+- Keep a record of EVERY shiny you ever found!
+- Export/Import records as JSON for backup and simple readabilty. If this app ever dies, you'll STILL be able to read your hunts because JSON is human-readable!
+- Use it as a counter to hunt in real time!
+  
+## Each Hunt Record includes
+- Pokémon Name
+- Pokémon Game you hunted it in.
+  - Included every main line Pokémon Game
+  - Lets the user add custom games for future-proofing or RomHacks
+    - Custom games will import with JSON data when you import a set of hunts!
+- The Base Odds (8192, 4096, or 300 for DAs)
+- The gender you were going after.
+- Alpha status
+- Date started/ended
+- Encounter counter
+- Video Clip link field (e.g., for YouTube/Twitch clips)
+- Detailed Records for each phase you encountered along the way.
+  - Name, Gender, Alpha Status, Count when found, Time when found, Notes, Shiny Clip Link field.
+- Shiny Charm Status
+- Method used
+- Space for Notes (e.g., if you were going after a particular nature, if you were hunting with your eyes closed, etc.)
 
-
-
+## Shiny Hunting Tools
+- Customizable encounter counter
+  - Can increase/decrease by any increment.
+  - Arbitrary, customizable keybinds
+  - Basic "Chance-You-Should-Have-Found-It-By-Now" Calculator
+  - Adjust the number of shiny rolls per encounter
+- Popout window for streaming or just to have while you're watching something.
+  - Displays counter, sprite, +/- buttons
+  - Always stays on top of other windows! :)
+ 
+## Other Features
+- Gorgeous, low file-size shiny sprites downloaded from PokéAPI and cached locally.
+- Support for custom images (e.g., if you want an oldschool sprite)
+  - no animated GIF support yet 🙏
+- Autofill feature when adding a hunt so you know you're spelling a mon's name right.
+  - It's still a little buggy:
+    - Press "Enter" to complete the name, then "Tab" to deselect the textbox.
 
 
 

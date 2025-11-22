@@ -44,7 +44,7 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
     - If this app ever dies, you'll STILL be able to read your hunt data because JSON is human-readable and easily parsed by many applications!
 - Includes tools to hunt in real time!
   
-## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_16x16.png) Detail-rich Hunt Records
+## ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_16x16.png) Detail-Rich Hunt Records
 - Pokémon Name
 – Method Used for Hunt (e.g., Random Encounters, Soft Resets, DexNav, etc.)
 - Pokémon Game you hunted it in.

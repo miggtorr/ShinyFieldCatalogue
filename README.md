@@ -3,11 +3,12 @@
 ## A macOS app to Count, Track, and Catalogue your Pokémon Shiny Hunts
 
 #### 🤖 AI Disclosure: 
+
+**NO AI** was used for ANY Art or Writing. All custom art (e.g., the app icon, sprite placeholders, etc.) was made by hand in Adobe Illustrator (by me! ❤️). All Pokémon sprites are downloaded at runtime via the PokéAPI, as is the Alpha icon from Bulbapedia. This Readme was written by yours truly. :)
+
 This project began with me learning how to use some of the coding features in the ChatGPT workspace provided by my employer. Thus, I used AI to produce a significant portion of the code in Python. 
 
 That said, the code was tested, tweaked, and debugged by hand by a real human (me) on a handful of real MacBooks.
-
-**NO AI** was used for ANY Art or Writing. All custom art (e.g., the app icon, sprite placeholders, etc.) was made by hand in Adobe Illustrator (by me! ❤️). All Pokémon sprites are downloaded at runtime via the PokéAPI, as is the Alpha icon from Bulbapedia. This Readme was written by yours truly. :)
 
 # ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Installation & Running the App ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png)
 

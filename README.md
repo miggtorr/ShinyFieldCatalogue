@@ -1,4 +1,4 @@
-# ShinyFieldCatalogue
+# ShinyFieldCatalogue !(https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/AppIcon.jpg)
 A macOS app to Count, Track, and Catalogue your Pokémon Shiny Hunt
 
 ### AI Disclosure: 

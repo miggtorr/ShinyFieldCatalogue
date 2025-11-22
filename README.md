@@ -44,6 +44,7 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
   
 ## Each Hunt Record includes
 - Pokémon Name
+– Method Used for Hunt (e.g., Random Encounters, Soft Resets, DexNav, etc.)
 - Pokémon Game you hunted it in.
   - Included every main line Pokémon Game
   - Lets the user add custom games for future-proofing or RomHacks
@@ -57,7 +58,6 @@ Delete the "Shiny Field Catalogue" folder there and you're all set!
 - Detailed Records for each phase you encountered along the way.
   - Name, Gender, Alpha Status, Count when found, Time when found, Notes, Shiny Clip Link field.
 - Shiny Charm Status
-- Method used
 - Space for Notes (e.g., if you were going after a particular nature, if you were hunting with your eyes closed, etc.)
 
 ## Shiny Hunting Tools

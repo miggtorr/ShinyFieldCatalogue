@@ -7,17 +7,16 @@ The code was tested, tweaked, and debugged by hand by a real human (me) on a han
 
 **NO AI** was used for ANY Art or Text (including this readme!). All custom art was made by hand in Adobe Illustrator (by me! ❤️). All pokemon sprites are taken from the PokéAPI and the Alpha icon is from Bulbapedia.
 
-# OS Requirements
-
-This app has been tested on **macOS 14 Sonoma** and **macOS 26 Tahoe**. 
-It will not run on Windows or Linux. Sorry!
-
-
-# Installation & Running the App
+# ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png) Installation & Running the App ![](https://github.com/miggtorr/ShinyFieldCatalogue/blob/main/resources/myIcon.iconset/icon_32x32.png)
 
 ## Installation
 
 To install the app, open up the DMG and drag the app into your /Applications folder.
+
+### OS Requirements
+
+This app has been tested on **macOS 14 Sonoma** and **macOS 26 Tahoe**. 
+It will not run on Windows or Linux. Sorry!
 
 ## Running the App
 
